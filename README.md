@@ -34,7 +34,7 @@ Sorting Visualizer is an interactive tool that demonstrates various sorting algo
 ![Sorting Visualizer Screenshot](path/to/screenshot.png)
 
 ## Technologies Used
-- *React:* For building the user interface.
+- *HTML:* For the framework of the application..
 - *JavaScript:* For implementing the sorting algorithms.
 - *CSS:* For styling the application..
 
