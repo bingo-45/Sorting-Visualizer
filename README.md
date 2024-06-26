@@ -39,17 +39,9 @@ Sorting Visualizer is an interactive tool that demonstrates various sorting algo
 - *JavaScript:* For implementing the sorting algorithms.
 - *CSS:* For styling the application..
 
-## Contributing
-Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.
 
-1. *Fork the repository*
-2. *Create a new branch (git checkout -b feature-branch)*
-3. *Commit your changes (git commit -am 'Add new feature')*
-4. *Push to the branch (git push origin feature-branch)*
-5. *Create a new Pull Request*
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Visual
+Go Checkout my project at https://bingo-45.github.io/Sorting-Visualizer/
 
 ## Contact
 If you have any questions or feedback, feel free to reach out:
