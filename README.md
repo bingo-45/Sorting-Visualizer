@@ -30,7 +30,10 @@ Sorting Visualizer is an interactive tool that demonstrates various sorting algo
 4. *Start Sorting:*
     Click the "Start Sorting" button to begin the visualization.
 
-## Screenshots
+## Video
+
+[Sorting Video](https://github.com/bingo-45/Sorting-Visualizer/assets/153988388/3625dd7d-b300-4471-9b4c-70ac04c30c47)
+
 
 
 
