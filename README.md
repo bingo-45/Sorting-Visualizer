@@ -31,7 +31,8 @@ Sorting Visualizer is an interactive tool that demonstrates various sorting algo
     Click the "Start Sorting" button to begin the visualization.
 
 ## Screenshots
-![Sorting Visualizer Screenshot](path/to/screenshot.png)
+![Sorting Visualizer Screenshot]![Screenshot 2024-06-26 232645](https://github.com/bingo-45/Sorting-Visualizer/assets/153988388/9077fccd-6927-4707-bd47-cdc83ac703fe)
+
 
 ## Technologies Used
 - *HTML:* For the framework of the application..
